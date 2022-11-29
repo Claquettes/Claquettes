@@ -4,4 +4,3 @@
 <h2>About me</h2>
 
 <a href="https://wakatime.com/@85363e99-4bd6-4f5d-928a-967ecbb24610"><img src="https://wakatime.com/badge/user/85363e99-4bd6-4f5d-928a-967ecbb24610.svg" alt="Total time coded since Nov 26 2022" /></a>
-<a href="https://wakatime.com/@85363e99-4bd6-4f5d-928a-967ecbb24610"><img src=""https://wakatime.com/share/@Claquettes/15a8e89c-f78f-43b1-83b7-2846ee62c597.svg"" 
