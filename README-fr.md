@@ -30,7 +30,7 @@
   - [**✨ Envoie**]Construit en utilisant Express.js et Sharp.js, écrivez simplement `https://claq.fr/envoie/your+message` dans un canal discord ou n'importe quelle application de messagerie, et *envoie* générera et renverra un même en utilisant un modèle d'un homme tenant une pancarte, avec votre texte écrit dessus
 .  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
 
-- [**🔤 Claquettix**] Un script réalisé avec Selenium en Python pour aider le joueur à gagner au jeu [Pedantix](https://cemantix.certitudes.org/pedantix) via BruteForce. Le script entre une sélection de mots pour remplir les blancs et donner au joueur un énorme coup de pouce au début du jeu.    <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
+- [**🔤 Claquettix**] Un script réalisé avec Selenium en Python pour aider le joueur à gagner au jeu [Pedantix](https://cemantix.certitudes.org/pedantix) via BruteForce. Le script entre une sélection de mots pour remplir les blancs et donner au joueur un énorme coup de pouce au début du jeu. Le code est actuellement privé.   <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
 
 - [**🎯 Polydarts**] Une application construite avec l'équipe Auttgames en utilisant React-native et Expo. C'est un jeu de fléchettes, où vous pouvez jouer contre l'ordinateur ou contre un ami. Le but est de se rapprocher le plus possible du score choisi en début de partie. L'application propose une variété de modes de jeu différents, pour pimenter le jeu, déclencher des événements spéciaux et ajouter un peu d'aléatoire. L'application est toujours en développement en janvier 2023.
 
