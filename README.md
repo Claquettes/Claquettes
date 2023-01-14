@@ -26,8 +26,10 @@
   - [**🧮 2048x**]A recreation of the famous 2048 game. You can choose the size of the grid, ranging from 2x2 to 10x10.
   - [**🇴 Morpion**]A Tic-Tac-Toe game build using Socket.io, this is a multiplayer version of the famous morpion game. You can create a room, then share the link to your friends to play with them.
   - [**💤 mimir**]Build using Express.js, mimir sends you back a gif of a cat or an human sleeping, with the caption 'A MIMIR'. When you send "https://claq.fr/mimir" to a friend, it show the gif in the chat. On certain platforms like Discord, it will only display the image in embed form.
-  - [**✨ Envoie**]Build using Express.js and Sharp.JS, simply writte `https://claq.fr/envoie/your+message` in a discord channel or any messaging app, and it will generate and send back a meme using a template of a man holding a sign, with yout text written on it.  //inserer gif
+  - [**✨ Envoie**]Build using Express.js and Sharp.JS, simply writte `https://claq.fr/envoie/your+message` in a discord channel or any messaging app, and it will generate and send back a meme using a template of a man holding a sign, with yout text written on it.  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
 
 - [**🤖 Farmbot**] A project started in 2021, the goal was to build a bot using the steam.js library to farm certain games in order to get some items and collectibles. The bot can also comment on user's profiles and accept or decline their trade offers. It is running on my virtual private server. The code is currently private.
 
 - [**💬 TacoBot**] A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
+
+- [**🔤 Claquettix**] A script made with Selenium in Python to help the player wins at the game [Pedantix](https://cemantix.certitudes.org/pedantix) using brute force. The script imput a selection of words to fill the blanks and give the player a huge boost at the beginning of the game.    <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
