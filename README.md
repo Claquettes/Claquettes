@@ -20,7 +20,7 @@
 </p>
 
 ### 🌺Projects🌺
-- [**Auttgames**]Founded in 2022 by myself, Auttgames is a group of students from Polytech Lyon, whose mission is to experiment with web developpment and game developpment. The project is currently hosted on my website [claq.fr](https://claq.fr). Here is a non-exhaustive list of what we have built:
+- [**Auttgames**]Founded in 2022 by myself, Auttgames is a group of students from Polytech Lyon, whose mission is to experiment with web developpment and game developpment. The project is currently hosted on my website [claq.fr](https://claq.fr). Here is a non-exhaustive list of what we have built: <br>
     -- [**A database**]A database to allow users to register and log in to the website. It is also used to store the scores and stats of the games.
     -- [**Le Dinau'tt**]A litle game insipiried by google dinosaur. The goal is to avoid the obstacles and collect as many points as possible. We build it from scratch using HTML, CSS and Javascript. It includes a leaderboard to compare your score with other players and some protection against cheating.
     --[**2048x**]A recreation of the famous 2048 game. You can choose the size of the grid, ranging from 2x2 to 10x10.
