@@ -28,8 +28,11 @@
   - [**💤 mimir**]Build using Express.js, mimir sends you back a gif of a cat or an human sleeping, with the caption 'A MIMIR'. When you send "https://claq.fr/mimir" to a friend, it show the gif in the chat. On certain platforms like Discord, it will only display the image in embed form.
   - [**✨ Envoie**]Build using Express.js and Sharp.JS, simply writte `https://claq.fr/envoie/your+message` in a discord channel or any messaging app, and it will generate and send back a meme using a template of a man holding a sign, with yout text written on it.  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
 
+- [**🔤 Claquettix**] A script made with Selenium in Python to help the player wins at the game [Pedantix](https://cemantix.certitudes.org/pedantix) using brute force. The script imput a selection of words to fill the blanks and give the player a huge boost at the beginning of the game.    <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
+
+- [**🎯 Polydarts**] An application build with the Auttgames team using React-native and Expo. It is a darts game, where you can play against the computer or against a friend. The goal is to get as close as possible to the target. The application offers a variety of differents game modes, to spice up the game, triggering special events and adding a little bit of randomness. The application is still in development as of January 2023. 
+
 - [**🤖 Farmbot**] A project started in 2021, the goal was to build a bot using the steam.js library to farm certain games in order to get some items and collectibles. The bot can also comment on user's profiles and accept or decline their trade offers. It is running on my virtual private server. The code is currently private.
 
 - [**💬 TacoBot**] A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
 
-- [**🔤 Claquettix**] A script made with Selenium in Python to help the player wins at the game [Pedantix](https://cemantix.certitudes.org/pedantix) using brute force. The script imput a selection of words to fill the blanks and give the player a huge boost at the beginning of the game.    <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
