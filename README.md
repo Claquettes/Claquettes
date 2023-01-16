@@ -21,8 +21,9 @@
 
 ### 🌺Projects🌺
 - [**🌮 AUTTGAMES**] Founded in 2022 by Tibouyou, FlashOnFire and myself, Auttgames is a group of students from Polytech Lyon, whose mission is to experiment with web developpment and game developpment. The project is currently hosted on my website [claq.fr](https://claq.fr). Here is a non-exhaustive list of what we have built: 
-  - [**💽 A database**]A database using SQL to allow users to register and log in to the website. It is also used to store the scores and stats of the games.
-  - [**🦖 Le Dinau'tt**]A little game insipiried by google dinosaur. The goal is to avoid the obstacles and collect as many points as possible. We build it from scratch using HTML, CSS and Javascript. It includes a leaderboard to compare your score with other players and some protection against cheating.
+  - [**💽 A database**] [![SQL][SQL]][SQL-url]   
+  - A database using SQL to allow users to register and log in to the website. It is also used to store the scores and stats of the games.
+  - [**🦖 Le Dinau'tt**]  [![JavaScript][javascript] A little game insipiried by google dinosaur. The goal is to avoid the obstacles and collect as many points as possible. We build it from scratch using HTML, CSS and Javascript. It includes a leaderboard to compare your score with other players and some protection against cheating.
   - [**🧮 2048x**]A recreation of the famous 2048 game. You can choose the size of the grid, ranging from 2x2 to 10x10.
   - [**🇴 Morpion**]A Tic-Tac-Toe game build using Socket.io, this is a multiplayer version of the famous morpion game. You can create a room, then share the link to your friends to play with them.
   - [**💤 mimir**]Build using Express.js, mimir sends you back a gif of a cat or an human sleeping, with the caption 'A MIMIR'. When you send "https://claq.fr/mimir" to a friend, it show the gif in the chat. On certain platforms like Discord, it will only display the image in embed form.
@@ -37,7 +38,7 @@
 - [**💬 TacoBot**] A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
 
 ### 🌺Skills🌺
-<!-- Les badges-->
+<!-- Les badges >
 
 * [![JavaScript][javascript]
 * [![Express.js][express]][express-url]
@@ -53,19 +54,9 @@
 * [![Socket.io][Socket.io]][Socket-url]
 * [![react-native][react-native]][react-native-url]
 * [![discord.js][discord.js]][discord.js-url]
-* [![steam.js][steam.js]][steam.js-url]
-* []
-* 
+* [![steam.js][steam.js]]
   
-
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* 
+<!-- Les liens --> 
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 
@@ -93,9 +84,6 @@
 [Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 
-[C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[C++-url]: https://www.cplusplus.com/
-
 [SQL]: https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white
 [SQL-url]: https://www.w3schools.com/sql/
 
@@ -107,23 +95,3 @@
 
 [steam.js]: https://img.shields.io/badge/Steam.js-000000?style=for-the-badge&logo=steam&logoColor=white
 
-
-
-
-
-
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
