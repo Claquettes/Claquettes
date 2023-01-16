@@ -21,7 +21,7 @@
 </p>
 
 ### 🌺Projets🌺
-- [**🌮 AUTTGAMES**] ![javaScript][javascript]]  [![HTML][HTML5]][HTML-url]   [![Express.js][express]][express-url]    [![SQL][SQL]][SQL-url]   [![Sharp.js][Sharp.js]][Sharp-url]   
+- [**🌮 AUTTGAMES**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   [![Express.js][express]][express-url]    [![SQL][SQL]][SQL-url]   [![Sharp.js][Sharp.js]][Sharp-url]   
   Fondé en 2022 par Tibouyou, FlashOnFire et moi-même, Auttgames est un groupe d'étudiants de Polytech Lyon, dont la mission est d'expérimenter le développement web et le développement de jeux. Le projet est actuellement hébergé sur mon site [claq.fr](https://claq.fr). Voici une liste non-exhaustive de ce que nous avons construit: 
   - [**💽 A database**]Une base de données en SQL pour permettre aux utilisateurs de s'inscrire et de se connecter au site. Elle est également utilisé pour stocker les scores et les statistiques des jeux.
   - [**🦖 Le Dinau'tt**]Un petit jeu inspiré du jeu du dinosaure de Google. Le but est d'éviter les obstacles et de récolter le plus de points possible. Nous l'avons reconstruit à partir de zéro en HTML, CSS et Javascript. Il comprend un classement pour comparer votre score avec d'autres joueurs. Nous avons commencé a implémenter une protection contre la triche. 
@@ -43,7 +43,7 @@
 
 <!-- Les badges >
 
-* ![javaScript][javascript]][javascript-url]
+* ![javaScript][javascript]
 * [![Express.js][express]][express-url]
 * [![Node.js][Node.js]][Node-url]
 * [![HTML][HTML5]][HTML-url]
