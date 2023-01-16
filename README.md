@@ -21,7 +21,7 @@
 
 ### 🌺Projects🌺
   
-- [**🌮 AUTTGAMES**]   [![javaScript][javascript]][javascript-url]  [![HTML][HTML5]][HTML-url]   [![Express.js][express]][express-url]    [![SQL][SQL]][SQL-url]   [![Sharp.js][Sharp.js]][Sharp-url]   
+- [**🌮 AUTTGAMES**]   ![javaScript][javascript]][javascript-url]  [![HTML][HTML5]][HTML-url]   [![Express.js][express]][express-url]    [![SQL][SQL]][SQL-url]   [![Sharp.js][Sharp.js]][Sharp-url]   
   Founded in 2022 by Tibouyou, FlashOnFire and myself, Auttgames is a group of students from Polytech Lyon, whose mission is to experiment with web developpment and game developpment. The project is currently hosted on my website [claq.fr](https://claq.fr). Here is a non-exhaustive list of what we have built: 
   - [**💽 A database**]- A database using SQL to allow users to register and log in to the website. It is also used to store the scores and stats of the games.
   - [**🦖 Le Dinau'tt**]- A little game insipiried by google dinosaur. The goal is to avoid the obstacles and collect as many points as possible. We build it from scratch using HTML, CSS and Javascript. It includes a leaderboard to compare your score with other players and some protection against cheating.
@@ -36,16 +36,16 @@
 - [**🎯 Polydarts**]   [![react-native][react-native]][react-native-url]   
   An application build with the Auttgames team using React-native and Expo. It is a darts game, where you can play against the computer or against a friend. The goal is to get as close as possible to the target. The application offers a variety of differents game modes, to spice up the game, triggering special events and adding a little bit of randomness. The application is still in development as of January 2023. 
 
-- [**🤖 Farmbot**] [![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![Steam.js][steam.js]
+- [**🤖 Farmbot**] ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   ![Steam.js][steam.js]
 - A project started in 2021, the goal was to build a bot using the steam.js library to farm certain games in order to get some items and collectibles. The bot can also comment on user's profiles and accept or decline their trade offers. It is running on my virtual private server. The code is currently private.
 
-- [**💬 TacoBot**] [![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![discord.js][discord.js]][discord.js-url]
+- [**💬 TacoBot**] ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![discord.js][discord.js]][discord.js-url]
 - A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
 
 ### 🌺Skills🌺
 <!-- Les badges >
 
-* [![javaScript][javascript]][javascript-url]
+* ![javaScript][javascript]][javascript-url]
 * [![Express.js][express]][express-url]
 * [![Node.js][Node.js]][Node-url]
 * [![HTML][HTML5]][HTML-url]
@@ -59,7 +59,7 @@
 * [![Socket.io][Socket.io]][Socket-url]
 * [![react-native][react-native]][react-native-url]
 * [![discord.js][discord.js]][discord.js-url]
-* [![steam.js][steam.js]
+* ![steam.js][steam.js]
   
 <!-- Les liens --> 
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
