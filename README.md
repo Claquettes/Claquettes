@@ -43,7 +43,7 @@
 ### 🌺Skills🌺
 <!-- Les badges >
 
-* [![javaScript][javascript][javascript-url]
+* [![javaScript][javascript]][javascript-url]
 * [![Express.js][express]][express-url]
 * [![Node.js][Node.js]][Node-url]
 * [![HTML][HTML5]][HTML-url]
