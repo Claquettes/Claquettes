@@ -60,37 +60,37 @@
 * ![steam.js][steam.js]
   
 <!-- Les liens --> 
-[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black
 [javascript-url]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 
-[express]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[express]: https://img.shields.io/badge/Express.js-404D59?
 [express-url]: https://expressjs.com/fr/
 
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node.js]: https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en/
 
-[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/fr/docs/Web/HTML
 
-[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/fr/docs/Web/CSS
 
-[Sharp.js]: https://img.shields.io/badge/Sharp.js-000000?style=for-the-badge&logo=sharp.js&logoColor=white
+[Sharp.js]: https://img.shields.io/badge/Sharp.js-000000?&logo=sharp.js&logoColor=white
 [Sharp-url]: https://sharpjs.com/
 
-[Socket.io]: https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
+[Socket.io]: https://img.shields.io/badge/Socket.io-010101?&logo=socket.io&logoColor=white
 [Socket-url]: https://socket.io/
 
-[Selenium]: https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
+[Selenium]: https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white
 [Selenium-url]: https://www.selenium.dev/
 
-[Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[Python]: https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 
-[SQL]: https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white
+[SQL]: https://img.shields.io/badge/SQL-025E8C?&logo=sql&logoColor=white
 [SQL-url]: https://www.w3schools.com/sql/
 
-[react-native]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-native]: https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB
 [react-native-url]: https://reactnative.dev/
 
 [discord.js]: https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white
