@@ -36,7 +36,7 @@
 
 - [**💬 TacoBot**] A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
 
-* [![Javascript][https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black][https://developer.mozilla.org/fr/docs/Web/JavaScript]
+* [![JavaScript][javascript]
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -46,7 +46,8 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-
+* 
+[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
