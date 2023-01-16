@@ -21,7 +21,7 @@
 
 ### 🌺Projects🌺
   
-- [**🌮 AUTTGAMES**] [![HTML][HTML5]][HTML-url]   [![Express.js][express]][express-url]    [![SQL][SQL]][SQL-url]   [![Sharp.js][Sharp.js]][Sharp-url]   
+- [**🌮 AUTTGAMES**]   [![javaScript][javascript][javascript-url]  [![HTML][HTML5]][HTML-url]   [![Express.js][express]][express-url]    [![SQL][SQL]][SQL-url]   [![Sharp.js][Sharp.js]][Sharp-url]   
   Founded in 2022 by Tibouyou, FlashOnFire and myself, Auttgames is a group of students from Polytech Lyon, whose mission is to experiment with web developpment and game developpment. The project is currently hosted on my website [claq.fr](https://claq.fr). Here is a non-exhaustive list of what we have built: 
   - [**💽 A database**]- A database using SQL to allow users to register and log in to the website. It is also used to store the scores and stats of the games.
   - [**🦖 Le Dinau'tt**]- A little game insipiried by google dinosaur. The goal is to avoid the obstacles and collect as many points as possible. We build it from scratch using HTML, CSS and Javascript. It includes a leaderboard to compare your score with other players and some protection against cheating.
@@ -43,7 +43,7 @@
 ### 🌺Skills🌺
 <!-- Les badges >
 
-* [![javaScript][javascript]
+* [![javaScript][javascript][javascript-url]
 * [![Express.js][express]][express-url]
 * [![Node.js][Node.js]][Node-url]
 * [![HTML][HTML5]][HTML-url]
