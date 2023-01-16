@@ -36,11 +36,15 @@
 
 - [**💬 TacoBot**] A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
 
-
+### 🌺Skills🌺
 <!-- Les badges-->
+
 * [![JavaScript][javascript]
 * [![Express.js][express]][express-url]
+* [![Node.js][Node.js]][Node-url]
+* [![HTML][HTML5]][HTML-url]
 * 
+  
 
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -55,6 +59,13 @@
 
 [express]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 [express-url]: https://expressjs.com/fr/
+
+[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/en/
+
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/fr/docs/Web/HTML
+
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
