@@ -38,9 +38,13 @@
   Une application construite avec l'équipe Auttgames en utilisant React-native et Expo. C'est un jeu de fléchettes, où vous pouvez jouer contre l'ordinateur ou contre un ami. Le but est de se rapprocher le plus possible du score choisi en début de partie. L'application propose une variété de modes de jeu différents, pour pimenter le jeu, déclencher des événements spéciaux et ajouter un peu d'aléatoire. L'application est toujours en développement en janvier 2023.
 
 - [**🤖 Farmbot**]   ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   ![Steam.js][steam.js]   
-- Un projet démarré en 2021, le but était de construire un bot utilisant la librairie steam.js pour farm certains jeux afin d'obtenir des objets de manière automatisée. Le bot peut également commenter les profils des utilisateurs et accepter ou refuser leurs offres d'échanges. Il est exécuté sur mon serveur privé virtuel. Le code est actuellement privé.
-- [**💬 TacoBot**]   ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![discord.js][discord.js]][discord.js-url]Un bot discord que j'ai créé en 2021 en utilisant Discord.js. Il est actuellement en cours d'exécution sur mon serveur et est utilisé pour modérer mon serveur, le protéger du spam et faire des blagues. Le code est actuellement privé.
+  Un projet démarré en 2021, le but était de construire un bot utilisant la librairie steam.js pour farm certains jeux afin d'obtenir des objets de manière automatisée. Le bot peut également commenter les profils des utilisateurs et accepter ou refuser leurs offres d'échanges. Il est exécuté sur mon serveur privé virtuel. Le code est actuellement privé.
 
+- [**💬 TacoBot**]   ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![discord.js][discord.js]][discord.js-url]
+  Un bot discord que j'ai créé en 2021 en utilisant Discord.js. Il est actuellement en cours d'exécution sur mon serveur et est utilisé pour modérer mon serveur, le protéger du spam et faire des blagues. Le code est actuellement privé.
+
+- [**🐍 Snak**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
+ Un jeu de Snake minimaliste jouable dans le navigateur web, créé en Html, CSS et Javascript. Le but est de manger le plus de pommes possible sans toucher les murs ou le corps du serpent. Le jeu à été développé en 3 jours,  c'était un défi personnel pour voir si je pouvais créer un jeu en si peu de temps. Le joueur à la possibilité de choisir la vitesse du serpent ainsi qu'une "distance de sécurité" (qui évite que les pommes apparaissent trop près des bordures). Le code et publié dans un répertoire sur mon github, et je vais le mettre à jour régulièrement pour ajouter de nouvelles fonctionnalités, ainsi que l'héberger sur mon site web pour le rendre jouable par tous. 
 <!-- Les badges >
 
 * ![javaScript][javascript]
