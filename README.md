@@ -46,7 +46,7 @@
   A minimalist Snake game playable in the browser, created in Html, CSS and Javascript. The goal is to eat as many apples as possible without touching the walls or the snake's body. The game was developed in 3 days, it was a personal challenge to see if I could create a game in such a short time. The player has the option to choose the speed of the snake as well as a "safety distance" (which prevents apples from appearing too close to the edges). The code is published in a directory on my github, and I will update it regularly to add new features, as well as host it on my website to make it playable by everyone.
 
 - [**🏏 Casse-brik**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
-  A Recreation of the classic Breakout game, created in Html, CSS and Javascript. The goal is to destroy all the bricks by bouncing the ball on the paddle. The player can choose to play differents levels, currently there are 3 levels, but i plan to make at least a dozen. The code is published in a directory on my github, and I will update it regularly to add new features, and new levels as well as host it on my website to make it playable by everyone.
+  A Recreation of the classic Breakout game, created in Html, CSS and Javascript. The goal is to destroy all the bricks by bouncing the ball on the paddle. The player can choose to play differents levels, currently there are 3 levels, but i plan to make at least a dozen. The code is published in a directory on my github, and I will update it regularly to add new features and new levels. It is also hosted on my website to make it playable by everyone at [claq.fr/casse-briques](https://claq.fr/casse-briques).
 
 
 
