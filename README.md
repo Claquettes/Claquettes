@@ -37,13 +37,16 @@
   An application build with the Auttgames team using React-native and Expo. It is a darts game, where you can play against the computer or against a friend. The goal is to get as close as possible to the target. The application offers a variety of differents game modes, to spice up the game, triggering special events and adding a little bit of randomness. The application is still in development as of January 2023. 
 
 - [**🤖 Farmbot**] ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   ![Steam.js][steam.js]
-- A project started in 2021, the goal was to build a bot using the steam.js library to farm certain games in order to get some items and collectibles. The bot can also comment on user's profiles and accept or decline their trade offers. It is running on my virtual private server. The code is currently private.
+  A project started in 2021, the goal was to build a bot using the steam.js library to farm certain games in order to get some items and collectibles. The bot can also comment on user's profiles and accept or decline their trade offers. It is running on my virtual private server. The code is currently private.
 
 - [**💬 TacoBot**] ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![discord.js][discord.js]][discord.js-url]
-- A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
+  A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
 
 - [**🐍 Snak**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
- A minimalist Snake game playable in the browser, created in Html, CSS and Javascript. The goal is to eat as many apples as possible without touching the walls or the snake's body. The game was developed in 3 days, it was a personal challenge to see if I could create a game in such a short time. The player has the option to choose the speed of the snake as well as a "safety distance" (which prevents apples from appearing too close to the edges). The code is published in a directory on my github, and I will update it regularly to add new features, as well as host it on my website to make it playable by everyone.
+  A minimalist Snake game playable in the browser, created in Html, CSS and Javascript. The goal is to eat as many apples as possible without touching the walls or the snake's body. The game was developed in 3 days, it was a personal challenge to see if I could create a game in such a short time. The player has the option to choose the speed of the snake as well as a "safety distance" (which prevents apples from appearing too close to the edges). The code is published in a directory on my github, and I will update it regularly to add new features, as well as host it on my website to make it playable by everyone.
+
+- [**🏏 Casse-brik**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
+  A Recreation of the classic Breakout game, created in Html, CSS and Javascript. The goal is to destroy all the bricks by bouncing the ball on the paddle. The player can choose to play differents levels, currently there are 3 levels, but i plan to make at least a dozen. The code is published in a directory on my github, and I will update it regularly to add new features and new levels. It is also hosted on my website to make it playable by everyone at [claq.fr/casse-briques](https://claq.fr/casse-briques).    <div align="center"> ![](https://media.giphy.com/media/lbmgZRIYHm5sEyZvqE/giphy.gif)</div>
 
 
 
