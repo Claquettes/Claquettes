@@ -33,6 +33,7 @@
 
 - [**📚 PolyRessources**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url]              
  Un site Internet pour aider les étudiants de Polytech Lyon à trouver des ressources utiles pour leurs cours. Le site est actuellement hébergé sur mon site [claq.fr](https://claq.fr/polyressources). Il est actuellement en cours de développement, et le code est open-source. Tout le monde peut contribuer en ajoutant des ressources, en corrigeant des bugs ou en modifiant le front-end. Le code est disponible sur [GitHub](https://github.com/Claquettes/PolyRessources)
+ <div align="center"> ![](https://imgur.com/a/ihCqgWT)</div>
 
 - [**🔤 Claquettix**] [![Python][Python]][Python-url]   [![Selenium][Selenium]][Selenium-url]   
  Un script réalisé avec Selenium en Python pour aider le joueur à gagner au jeu [Pedantix](https://cemantix.certitudes.org/pedantix) via BruteForce. Le script entre une sélection de mots pour remplir les blancs et donner au joueur un énorme coup de pouce au début du jeu. Le code est actuellement privé.   <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
