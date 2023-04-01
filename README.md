@@ -29,24 +29,25 @@
   - [**🇴 Morpion**]- A Tic-Tac-Toe game build using Socket.io, this is a multiplayer version of the famous morpion game. You can create a room, then share the link to your friends to play with them.
   - [**💤 mimir**]- Build using Express.js, mimir sends you back a gif of a cat or an human sleeping, with the caption 'A MIMIR'. When you send "https://claq.fr/mimir" to a friend, it show the gif in the chat. On certain platforms like Discord, it will only display the image in embed form.
   - [**✨ Envoie**]- Build using Express.js and Sharp.JS, simply writte `https://claq.fr/envoie/your+message` in a discord channel or any messaging app, and it will generate and send back a meme using a template of a man holding a sign, with yout text written on it.  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
+------------------------------
 - [**📚 PolyRessources**]![javaScript][javascript] [![HTML][HTML5]][HTML-url]
  A website to help students from Polytech Lyon find useful resources for their courses. The site is currently hosted on my site [claq.fr](https://claq.fr/polyressources). It is currently under development, and the code is open-source. Anyone can contribute by adding resources, fixing bugs or modifying the front-end. The code is available at [GitHub](https://github.com/Claquettes/PolyRessources).  <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMzgxYmIyYWFjYzdjMGM1ZmJmODI5ZjU0NTg2Y2JiYzZhMjlkYiZjdD1n/VKQiOKDIrKL2KxaNj3/giphy.gif)</div>
-
+----------------------------
 - [**🔤 Claquettix**] [![Python][Python]][Python-url]   [![Selenium][Selenium]][Selenium-url]       
   A script made with Selenium in Python to help the player wins at the game [Pedantix](https://cemantix.certitudes.org/pedantix) using brute force. The script imput a selection of words to fill the blanks and give the player a huge boost at the beginning of the game. The code is currently private.    <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
-
+----------------------------
 - [**🎯 Polydarts**]   [![react-native][react-native]][react-native-url]   
   An application build with the Auttgames team using React-native and Expo. It is a darts game, where you can play against the computer or against a friend. The goal is to get as close as possible to the target. The application offers a variety of differents game modes, to spice up the game, triggering special events and adding a little bit of randomness. The application is still in development as of January 2023. 
-
+----------------------------
 - [**🤖 Farmbot**] ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   ![Steam.js][steam.js]
   A project started in 2021, the goal was to build a bot using the steam.js library to farm certain games in order to get some items and collectibles. The bot can also comment on user's profiles and accept or decline their trade offers. It is running on my virtual private server. The code is currently private.
-
+----------------------------
 - [**💬 TacoBot**] ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![discord.js][discord.js]][discord.js-url]
   A discord bot I made in 2021 using Discord.js. It is currently running on my server and is used to moderate the server, protect it from spam and to crack some jokes. The code is currently private.
-
+----------------------------
 - [**🐍 Snak**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
   A minimalist Snake game playable in the browser, created in Html, CSS and Javascript. The goal is to eat as many apples as possible without touching the walls or the snake's body. The game was developed in 3 days, it was a personal challenge to see if I could create a game in such a short time. The player has the option to choose the speed of the snake as well as a "safety distance" (which prevents apples from appearing too close to the edges). The code is published in a directory on my github, and I will update it regularly to add new features, as well as host it on my website to make it playable by everyone.
-
+----------------------------
 - [**🏏 Casse-brik**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
   A Recreation of the classic Breakout game, created in Html, CSS and Javascript. The goal is to destroy all the bricks by bouncing the ball on the paddle. The player can choose to play differents levels, currently there are 3 levels, but i plan to make at least a dozen. The code is published in a directory on my github, and I will update it regularly to add new features and new levels. It is also hosted on my website to make it playable by everyone at [claq.fr/casse-briques](https://claq.fr/casse-briques).    <div align="center"> ![](https://media.giphy.com/media/lbmgZRIYHm5sEyZvqE/giphy.gif)</div>
 
