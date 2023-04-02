@@ -31,7 +31,7 @@
   - [**✨ Envoie**]Construit en utilisant Express.js et Sharp.js, écrivez simplement `https://claq.fr/envoie/your+message` dans un canal discord ou n'importe quelle application de messagerie, et *envoie* générera et renverra un même en utilisant un modèle d'un homme tenant une pancarte, avec votre texte écrit dessus
 .  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
 ----------------------------
-- [**🏄🏽 ponton-mathi.eu**]![javaScript][javascript] [![HTML][HTML5]][HTML-url] [![CSS][CSS]][CSS-url]            
+- [**🏄🏽 ponton-mathi.eu**]![javaScript][javascript] [![HTML][HTML5]][HTML-url]
  Ma page web personnelle. [ponton-mathi.eu](https://ponton-mathi.eu) <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhhZjY3ODk5NjViOGNlYWNiNGMwY2ZjNWQ5NDAzNWE4NjA2YjllZSZjdD1n/dBsQOnzNymwm64RixT/giphy.gif)</div>
 ----------------------------
 - [**📚 PolyRessources**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url]              

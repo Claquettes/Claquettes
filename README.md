@@ -30,7 +30,7 @@
   - [**💤 mimir**]- Build using Express.js, mimir sends you back a gif of a cat or an human sleeping, with the caption 'A MIMIR'. When you send "https://claq.fr/mimir" to a friend, it show the gif in the chat. On certain platforms like Discord, it will only display the image in embed form.
   - [**✨ Envoie**]- Build using Express.js and Sharp.JS, simply writte `https://claq.fr/envoie/your+message` in a discord channel or any messaging app, and it will generate and send back a meme using a template of a man holding a sign, with yout text written on it.  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
 ------------------------------
-- [**🏄🏽 ponton-mathi.eu**]![javaScript][javascript] [![HTML][HTML5]][HTML-url] [![CSS][CSS]][CSS-url]            
+- [**🏄🏽 ponton-mathi.eu**]![javaScript][javascript] [![HTML][HTML5]][HTML-url]         
  My personnal webpage, built using Anime.js and Particle.js. Hosted at [ponton-mathi.eu](https://ponton-mathi.eu) <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhhZjY3ODk5NjViOGNlYWNiNGMwY2ZjNWQ5NDAzNWE4NjA2YjllZSZjdD1n/dBsQOnzNymwm64RixT/giphy.gif)</div>
 ----------------------------
 - [**📚 PolyRessources**]![javaScript][javascript] [![HTML][HTML5]][HTML-url]      
