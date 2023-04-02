@@ -30,11 +30,10 @@
   - [**💤 mimir**]- Build using Express.js, mimir sends you back a gif of a cat or an human sleeping, with the caption 'A MIMIR'. When you send "https://claq.fr/mimir" to a friend, it show the gif in the chat. On certain platforms like Discord, it will only display the image in embed form.
   - [**✨ Envoie**]- Build using Express.js and Sharp.JS, simply writte `https://claq.fr/envoie/your+message` in a discord channel or any messaging app, and it will generate and send back a meme using a template of a man holding a sign, with yout text written on it.  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
 ------------------------------
-- [**📚 ponton-mathi.eu**]![javaScript][javascript] [![HTML][HTML5]][HTML-url] [![CSS][CSS]][CSS-url] 
-  A website for a friend of mine, who is a math teacher. The website is currently hosted on my site [claq.fr](https://claq.fr/ponton-mathi). It is currently under development, and the code is open-source. Anyone can contribute by adding resources, fixing bugs or modifying the front-end. The code is available at [GitHub](
- My personnal webpage, built using Anime.js and Particle.js  <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhhZjY3ODk5NjViOGNlYWNiNGMwY2ZjNWQ5NDAzNWE4NjA2YjllZSZjdD1n/dBsQOnzNymwm64RixT/giphy.gif)</div>
+- [**🏄🏽 ponton-mathi.eu**]![javaScript][javascript] [![HTML][HTML5]][HTML-url] [![CSS][CSS]][CSS-url]            
+ My personnal webpage, built using Anime.js and Particle.js. Hosted at [ponton-mathi.eu](https://ponton-mathi.eu) <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhhZjY3ODk5NjViOGNlYWNiNGMwY2ZjNWQ5NDAzNWE4NjA2YjllZSZjdD1n/dBsQOnzNymwm64RixT/giphy.gif)</div>
 ----------------------------
-- [**📚 PolyRessources**]![javaScript][javascript] [![HTML][HTML5]][HTML-url]
+- [**📚 PolyRessources**]![javaScript][javascript] [![HTML][HTML5]][HTML-url]      
  A website to help students from Polytech Lyon find useful resources for their courses. The site is currently hosted on my site [claq.fr](https://claq.fr/polyressources). It is currently under development, and the code is open-source. Anyone can contribute by adding resources, fixing bugs or modifying the front-end. The code is available at [GitHub](https://github.com/Claquettes/PolyRessources).  <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMzgxYmIyYWFjYzdjMGM1ZmJmODI5ZjU0NTg2Y2JiYzZhMjlkYiZjdD1n/VKQiOKDIrKL2KxaNj3/giphy.gif)</div>
 ----------------------------
 - [**🔤 Claquettix**] [![Python][Python]][Python-url]   [![Selenium][Selenium]][Selenium-url]       
