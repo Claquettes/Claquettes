@@ -1,6 +1,6 @@
 ![French Version](https://github.com/Claquettes/Claquettes/blob/main/README-fr.md)
 ![](https://user-images.githubusercontent.com/114826837/204274294-4347eb2f-cb25-429c-9e90-8289991cc5bf.png)
-<h1 align="center">🌸Welcome to Claquettes's profile🌸</h1>
+<h1 align="center">🌸Welcome to my profile🌸</h1>
 
 ### 🌺Stats🌺
 <div align="center">
