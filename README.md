@@ -53,7 +53,13 @@
 ----------------------------
 - [**🏏 Casse-brik**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
   A Recreation of the classic Breakout game, created in Html, CSS and Javascript. The goal is to destroy all the bricks by bouncing the ball on the paddle. The player can choose to play differents levels, currently there are 3 levels, but i plan to make at least a dozen. The code is published in a directory on my github, and I will update it regularly to add new features and new levels. It is also hosted on my website to make it playable by everyone at [claq.fr/casse-briques](https://claq.fr/casse-briques).    <div align="center"> ![](https://media.giphy.com/media/lbmgZRIYHm5sEyZvqE/giphy.gif)</div>
-
+----------------------------
+- [**🌸 The Garden**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
+  A project started in march 2023 by @Claquettes and @FlashOnFire from the AuttGames Team. It's a calm and relaxing game where you can make your own tiny island/garden. The project is currently hosted on my website [Claq.fr](https://claq.fr/garden). You have the ability to export/import every creation you make, and share it with your friends as a Json file. The code is available at [GitHub](https://github.com/AuttgamesTeam/Autt-Garden). The project is now maintained and updated by @Claquettes, @FlashOnFire, @Tibouyou and @SunLaCrepe.
+----------------------------
+- [**_ The Planetarium**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
+  A fork from The Garden. This is a 0 player game inspired by the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The game randomly generate a planet with a random quantity of water, grass, mountains and sand. The player has the capacity to place 5 populations tiles, that will evolve and grow depending on the quantity of water, grass, mountains and sand around them. The goal is to create a planet with a maximum of population. The project is currently hosted on the  [Github Page of the project](https://claq.fr/planetarium) as it is still in the early stages of developpement. You have the ability to export/import every creation you make, and share it with your friends as a Json file. The code is available at [GitHub](https://github.com/Claquettes/Planetarium)
+----------------------------
 
 
 
@@ -80,6 +86,9 @@
 * [![particle.js][particle.js]][particle-url]
   
 <!-- Les liens --> 
+[json]: https://img.shields.io/badge/JSON-000000?&logo=json&logoColor=white
+[json-url]: https://www.json.org/json-en.html
+
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black
 [javascript-url]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 
