@@ -53,7 +53,16 @@
  Un jeu de Snake minimaliste jouable dans le navigateur web, créé en Html, CSS et Javascript. Le but est de manger le plus de pommes possible sans toucher les murs ou le corps du serpent. Le jeu à été développé en 3 jours,  c'était un défi personnel pour voir si je pouvais créer un jeu en si peu de temps. Le joueur à la possibilité de choisir la vitesse du serpent ainsi qu'une "distance de sécurité" (qui évite que les pommes apparaissent trop près des bordures). Le code et publié dans un répertoire sur mon github, et je vais le mettre à jour régulièrement pour ajouter de nouvelles fonctionnalités, ainsi que l'héberger sur mon site web pour le rendre jouable par tous. 
 ----------------------------
 - [**🏏 Casse-brik**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
-Une recréation du jeu classique Breakout, ou Casse-Briques, créé en Html, CSS et Javascript. Le but est de détruire toutes les briques en faisant rebondir la balle sur le paddle. Le joueur peut choisir de jouer à différents niveaux, croissants en difficulté.Il y a actuellement  3 niveaux, mais je prévois d'en faire au moins une douzaine. Le code est publié dans un répertoire sur mon github, et je vais le mettre à jour régulièrement pour ajouter de nouvelles fonctionnalités, et de nouveaux niveaux. Le jeu est également hébergé sur mon site web, et est jouable par tous sur [claq.fr/casse-briques](https://claq.fr/casse-briques).    <div align="center"> ![](https://media.giphy.com/media/lbmgZRIYHm5sEyZvqE/giphy.gif)</div>
+  Une recréation du jeu classique Breakout, ou Casse-Briques, créé en Html, CSS et Javascript. Le but est de détruire toutes les briques en faisant rebondir la balle sur le paddle. Le joueur peut choisir de jouer à différents niveaux, croissants en difficulté.Il y a actuellement  3 niveaux, mais je prévois d'en faire au moins une douzaine. Le code est publié dans un répertoire sur mon github, et je vais le mettre à jour régulièrement pour ajouter de nouvelles fonctionnalités, et de nouveaux niveaux. Le jeu est également hébergé sur mon site web, et est jouable par tous sur [claq.fr/casse-briques](https://claq.fr/casse-briques).    <div align="center"> ![](https://media.giphy.com/media/lbmgZRIYHm5sEyZvqE/giphy.gif)</div>
+----------------------------
+- [**🌸 The Garden**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
+  Un projet démarré par Claquettes puis FlashOnFire, de la AuttGamesTeam. C'est un jeu calme et relaxant dans lequel le joueur peut créer sa propre île, et son propre jardin. Le projet est actuellement hébergé sur mon site [Claq.fr](https://claq.fr/garden). Le joueur peut exporter chacune de ses créations sous la forme d'un fichier Json, pour les partager ou bien les charger à une date ultérieure. Le code est disponible ici: [GitHub](https://github.com/AuttgamesTeam/Autt-Garden). Le projet est maintenu et mis à jour par @Claquettes, @FlashOnFire, @Tibouyou et @SunLaCrepe.
+  <div align="center"> <img src="https://i.imgur.com/o7wxb1T.png" width="400px" /> </div>
+----------------------------
+- [**🪐 The Planetarium**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
+  Un fork du projet précédent. C'est un jeu 0-joueur, inspiré par le [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Le jeu génère aléatoirement une planète, constituée de terre, d'eau, de montagnes et de sable. Le joueur à ensuite la possibilité de poser 5 populations où il le souhaite; le but étant que sa population colonises la plus grande partie possible de la planète.Le projet est hébergé sur [sa propre page Github](https://claq.fr/planetarium) car il est encore en alpha. Le joueur peut exporter chacune de ses créations sous la forme d'un fichier Json, pour les partager ou bien les charger à une date ultérieure. Le code est disponible [ici](https://github.com/Claquettes/Planetarium)
+  <div align="center"> <img src="https://i.imgur.com/0N2CqmC.png" width="400px" /> </div>
+----------------------------
 
 
 <!-- Les badges >
@@ -75,6 +84,9 @@ Une recréation du jeu classique Breakout, ou Casse-Briques, créé en Html, CSS
 * ![steam.js][steam.js]
   
 <!-- Les liens --> 
+[json]: https://img.shields.io/badge/JSON-000000?&logo=json&logoColor=white
+[json-url]: https://www.json.org/json-en.html
+
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black
 [javascript-url]: https://developer.mozilla.org/fr/docs/Web/JavaScript
 
