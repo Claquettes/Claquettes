@@ -56,9 +56,11 @@
 ----------------------------
 - [**🌸 The Garden**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
   A project started in march 2023 by @Claquettes and @FlashOnFire from the AuttGames Team. It's a calm and relaxing game where you can make your own tiny island/garden. The project is currently hosted on my website [Claq.fr](https://claq.fr/garden). You have the ability to export/import every creation you make, and share it with your friends as a Json file. The code is available at [GitHub](https://github.com/AuttgamesTeam/Autt-Garden). The project is now maintained and updated by @Claquettes, @FlashOnFire, @Tibouyou and @SunLaCrepe.
+  <div align="center"> <img src="https://i.imgur.com/o7wxb1T.png" width="400px" /> </div>
 ----------------------------
 - [**_ The Planetarium**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
   A fork from The Garden. This is a 0 player game inspired by the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The game randomly generate a planet with a random quantity of water, grass, mountains and sand. The player has the capacity to place 5 populations tiles, that will evolve and grow depending on the quantity of water, grass, mountains and sand around them. The goal is to create a planet with a maximum of population. The project is currently hosted on the  [Github Page of the project](https://claq.fr/planetarium) as it is still in the early stages of developpement. You have the ability to export/import every creation you make, and share it with your friends as a Json file. The code is available at [GitHub](https://github.com/Claquettes/Planetarium)
+  <div align="center"> <img src="https://i.imgur.com/0N2CqmC.png" width="400px" /> </div>
 ----------------------------
 
 
