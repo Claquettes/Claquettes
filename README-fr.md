@@ -22,11 +22,7 @@
 
 ### 🌺About Me🌺
 Je m'appelle Mathieu, j'ai 19 ans et je suis un élève à l'école d'ingénieur [Polytech Lyon](https://polytech.univ-lyon1.fr/). Durant les deux dernières années, j'ai étudié les mathématiques (Algèbre-Analyse I-IV) et la programmation (C++, Scheme, HTML, CSS, PHP, SQL). J'aime la longboard, la nature, et apprendre de nouvelles choses.
-
-### 🌺Projects🌺
 Si vous souhaitez en apprendre plus sur mes projets, vous pouvez visiter mon [DevBlog](https://ponton-mathi.eu/blog) ou mes répertoires GitHub.
-
-### 🌺Stay in Touch🌺
 Vous pouvez me contacter par mail à [math@claq.fr](mailto:math@claq.fr) ou via [LinkedIn](https://www.linkedin.com/in/mathieu-ponton/).
 ----------------------------
 
