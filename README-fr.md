@@ -20,48 +20,14 @@
     <a href="https://wakatime.com/@85363e99-4bd6-4f5d-928a-967ecbb24610"><img src="https://wakatime.com/badge/user/85363e99-4bd6-4f5d-928a-967ecbb24610.svg" alt="Total time coded since Nov 26 2022" /></a>
 </p>
 
-### 🌺Projets🌺
-- [**🌮 AUTTGAMES**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   [![Express.js][express]][express-url]    [![SQL][SQL]][SQL-url]   [![Sharp.js][Sharp.js]][Sharp-url]   
-  Fondé en 2022 par Tibouyou, FlashOnFire et moi-même, Auttgames est un groupe d'étudiants de Polytech Lyon, dont la mission est d'expérimenter le développement web et le développement de jeux. Le projet est actuellement hébergé sur mon site [claq.fr](https://claq.fr). Voici une liste non-exhaustive de ce que nous avons construit: 
-  - [**💽 A database**]Une base de données en SQL pour permettre aux utilisateurs de s'inscrire et de se connecter au site. Elle est également utilisé pour stocker les scores et les statistiques des jeux.
-  - [**🦖 Le Dinau'tt**]Un petit jeu inspiré du jeu du dinosaure de Google. Le but est d'éviter les obstacles et de récolter le plus de points possible. Nous l'avons reconstruit à partir de zéro en HTML, CSS et Javascript. Il comprend un classement pour comparer votre score avec d'autres joueurs. Nous avons commencé a implémenter une protection contre la triche. 
-  - [**🧮 2048x**]Une recréation du célèbre jeu 2048. Vous pouvez choisir la taille de la grille, allant de 2x2 à 10x10.
-  - [**🇴 Morpion**]Un jeu de Tic-Tac-Toe, ou morpion, construit à l'aide de Socket.io, il s'agit d'une version multijoueur vous permettant de créer une salle, puis partager le lien avec vos amis pour jouer avec eux.
-  - [**💤 mimir**]Construit avec Express.js, *mimir* vous renvoie un gif d'un chat ou d'un humain endormi, avec la légende 'A MIMIR'. Lorsque vous envoyez `https://claq.fr/mimir` à un ami via une application de messagerie, le gif s'affiche dans le chat. Sur certaines plateformes comme Discord, il n'affichera l'image que sous forme d'intégration.
-  - [**✨ Envoie**]Construit en utilisant Express.js et Sharp.js, écrivez simplement `https://claq.fr/envoie/your+message` dans un canal discord ou n'importe quelle application de messagerie, et *envoie* générera et renverra un même en utilisant un modèle d'un homme tenant une pancarte, avec votre texte écrit dessus
-.  <div align="center"> ![](https://media.giphy.com/media/tEN32Ko5PGfdkYhtif/giphy.gif)</div>
-----------------------------
-- [**🏄🏽 ponton-mathi.eu**]![javaScript][javascript] [![HTML][HTML5]][HTML-url]
- Ma page web personnelle. [ponton-mathi.eu](https://ponton-mathi.eu) <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhhZjY3ODk5NjViOGNlYWNiNGMwY2ZjNWQ5NDAzNWE4NjA2YjllZSZjdD1n/dBsQOnzNymwm64RixT/giphy.gif)</div>
-----------------------------
-- [**📚 PolyRessources**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url]              
- Un site Internet pour aider les étudiants de Polytech Lyon à trouver des ressources utiles pour leurs cours. Le site est actuellement hébergé sur mon site [claq.fr](https://claq.fr/polyressources). Il est actuellement en cours de développement, et le code est open-source. Tout le monde peut contribuer en ajoutant des ressources, en corrigeant des bugs ou en modifiant le front-end. Le code est disponible sur [GitHub](https://github.com/Claquettes/PolyRessources). <div align="center"> ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMzgxYmIyYWFjYzdjMGM1ZmJmODI5ZjU0NTg2Y2JiYzZhMjlkYiZjdD1n/VKQiOKDIrKL2KxaNj3/giphy.gif)</div>
-----------------------------
-- [**🔤 Claquettix**] [![Python][Python]][Python-url]   [![Selenium][Selenium]][Selenium-url]   
- Un script réalisé avec Selenium en Python pour aider le joueur à gagner au jeu [Pedantix](https://cemantix.certitudes.org/pedantix) via BruteForce. Le script entre une sélection de mots pour remplir les blancs et donner au joueur un énorme coup de pouce au début du jeu. Le code est actuellement privé.   <div align="center"> ![](https://media.giphy.com/media/8mjdhnujKhJRdK5BwM/giphy.gif)</div>
-----------------------------
-- [**🎯 Polydarts**]   [![react-native][react-native]][react-native-url]   
-  Une application construite avec l'équipe Auttgames en utilisant React-native et Expo. C'est un jeu de fléchettes, où vous pouvez jouer contre l'ordinateur ou contre un ami. Le but est de se rapprocher le plus possible du score choisi en début de partie. L'application propose une variété de modes de jeu différents, pour pimenter le jeu, déclencher des événements spéciaux et ajouter un peu d'aléatoire. L'application est toujours en développement en janvier 2023.
-----------------------------
-- [**🤖 Farmbot**]   ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   ![Steam.js][steam.js]   
-  Un projet démarré en 2021, le but était de construire un bot utilisant la librairie steam.js pour farm certains jeux afin d'obtenir des objets de manière automatisée. Le bot peut également commenter les profils des utilisateurs et accepter ou refuser leurs offres d'échanges. Il est exécuté sur mon serveur privé virtuel. Le code est actuellement privé.
-----------------------------
-- [**💬 TacoBot**]   ![javaScript][javascript]   [![Node.js][Node.js]][Node-url]   [![discord.js][discord.js]][discord.js-url]
-  Un bot discord que j'ai créé en 2021 en utilisant Discord.js. Il est actuellement en cours d'exécution sur mon serveur et est utilisé pour modérer mon serveur, le protéger du spam et faire des blagues. Le code est actuellement privé.
-----------------------------
-- [**🐍 Snak**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
- Un jeu de Snake minimaliste jouable dans le navigateur web, créé en Html, CSS et Javascript. Le but est de manger le plus de pommes possible sans toucher les murs ou le corps du serpent. Le jeu à été développé en 3 jours,  c'était un défi personnel pour voir si je pouvais créer un jeu en si peu de temps. Le joueur à la possibilité de choisir la vitesse du serpent ainsi qu'une "distance de sécurité" (qui évite que les pommes apparaissent trop près des bordures). Le code et publié dans un répertoire sur mon github, et je vais le mettre à jour régulièrement pour ajouter de nouvelles fonctionnalités, ainsi que l'héberger sur mon site web pour le rendre jouable par tous. 
-----------------------------
-- [**🏏 Casse-brik**]   ![javaScript][javascript] [![HTML][HTML5]][HTML-url]   
-  Une recréation du jeu classique Breakout, ou Casse-Briques, créé en Html, CSS et Javascript. Le but est de détruire toutes les briques en faisant rebondir la balle sur le paddle. Le joueur peut choisir de jouer à différents niveaux, croissants en difficulté.Il y a actuellement  3 niveaux, mais je prévois d'en faire au moins une douzaine. Le code est publié dans un répertoire sur mon github, et je vais le mettre à jour régulièrement pour ajouter de nouvelles fonctionnalités, et de nouveaux niveaux. Le jeu est également hébergé sur mon site web, et est jouable par tous sur [claq.fr/casse-briques](https://claq.fr/casse-briques).    <div align="center"> ![](https://media.giphy.com/media/lbmgZRIYHm5sEyZvqE/giphy.gif)</div>
-----------------------------
-- [**🌸 The Garden**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
-  Un projet démarré par Claquettes puis FlashOnFire, de la AuttGamesTeam. C'est un jeu calme et relaxant dans lequel le joueur peut créer sa propre île, et son propre jardin. Le projet est actuellement hébergé sur mon site [Claq.fr](https://claq.fr/garden). Le joueur peut exporter chacune de ses créations sous la forme d'un fichier Json, pour les partager ou bien les charger à une date ultérieure. Le code est disponible ici: [GitHub](https://github.com/AuttgamesTeam/Autt-Garden). Le projet est maintenu et mis à jour par @Claquettes, @FlashOnFire, @Tibouyou et @SunLaCrepe.
-  <div align="center"> <img src="https://i.imgur.com/o7wxb1T.png" width="400px" /> </div>
-----------------------------
-- [**🪐 The Planetarium**] ![javaScript][javascript] [![HTML][HTML5]][HTML-url] ![json][json]
-  Un fork du projet précédent. C'est un jeu 0-joueur, inspiré par le [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Le jeu génère aléatoirement une planète, constituée de terre, d'eau, de montagnes et de sable. Le joueur à ensuite la possibilité de poser 5 populations où il le souhaite; le but étant que sa population colonises la plus grande partie possible de la planète.Le projet est hébergé sur [sa propre page Github](https://claq.fr/planetarium) car il est encore en alpha. Le joueur peut exporter chacune de ses créations sous la forme d'un fichier Json, pour les partager ou bien les charger à une date ultérieure. Le code est disponible [ici](https://github.com/Claquettes/Planetarium)
-  <div align="center"> <img src="https://i.imgur.com/0N2CqmC.png" width="400px" /> </div>
+### 🌺About Me🌺
+Je m'appelle Mathieu, j'ai 19 ans et je suis un élève à l'école d'ingénieur [Polytech Lyon](https://polytech.univ-lyon1.fr/). Durant les deux dernières années, j'ai étudié les mathématiques (Algèbre-Analyse I-IV) et la programmation (C++, Scheme, HTML, CSS, PHP, SQL). J'aime la longboard, la nature, et apprendre de nouvelles choses.
+
+### 🌺Projects🌺
+Si vous souhaitez en apprendre plus sur mes projets, vous pouvez visiter mon [DevBlog](https://ponton-mathi.eu/blog) ou mes répertoires GitHub.
+
+### 🌺Stay in Touch🌺
+Vous pouvez me contacter par mail à [math@claq.fr](mailto:math@claq.fr) ou via [LinkedIn](https://www.linkedin.com/in/mathieu-ponton/).
 ----------------------------
 
 
