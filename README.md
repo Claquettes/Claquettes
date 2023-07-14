@@ -21,7 +21,7 @@
 
 ### 🌺About Me🌺
 
-Hi, I'm Mathieu, a 19 years old French Student. I'm currently studying in Lyon, at the[Polytech](https://polytech.univ-lyon1.fr/) engineering school. During the past two years, I studied Mathematics (Algebra and Analysis I-IV) and Computer Sciences (C++, Scheme, HTML, CSS, PHP, SQL). I like longboarding, nature, and learning new things. 
+Hi, I'm Mathieu, a 19 years old French Student. I'm currently studying in Lyon, at the [Polytech](https://polytech.univ-lyon1.fr/) engineering school. During the past two years, I studied Mathematics (Algebra and Analysis I-IV) and Computer Sciences (C++, Scheme, HTML, CSS, PHP, SQL). I like longboarding, nature, and learning new things. 
 If you want to see my projects, you can go to my [DevBlog](https://ponton-mathi.eu/blog) or browse my repositories. 
 You can contact me by mail at [math@claq.fr](mailto:math@claq.fr) or via [LinkedIn](https://www.linkedin.com/in/mathieu-ponton/).
 
