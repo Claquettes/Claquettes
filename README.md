@@ -10,8 +10,9 @@
 <img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/Claquettes/Stats#gh-light-mode-only">
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claquettes&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claquettes&show_icons=true&theme=synthwave)
 </a>
 
 </div>
