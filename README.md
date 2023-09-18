@@ -6,7 +6,6 @@
 <div align="center">
 
 <a href="https://github.com/Claquettes/Stats#gh-dark-mode-only">
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/Claquettes/Stats#gh-light-mode-only">
