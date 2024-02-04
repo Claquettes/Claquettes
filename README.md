@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claquettes&show_icons=true&theme=synthwave)
 </a>
 <a href="https://github.com/Claquettes/Stats#gh-dark-mode-only">
-<img src="https://github.com/Claquettes/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://wakatime.com/share/@Claquettes/50baa0ae-526f-4622-ad39-fca1d9230686.svg" />
 </a>
 <a href="https://github.com/Claquettes/Stats#gh-light-mode-only">
 
