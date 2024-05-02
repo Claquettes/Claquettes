@@ -17,7 +17,8 @@
 
 ### 🌺About Me🌺
 
-Hi, I'm Mathieu, I'm 20, and I'm studying in Lyon France, at the [Polytech](https://polytech.univ-lyon1.fr/) engineering school. During the past two years, I studied Mathematics (Algebra and Analysis I-IV) and Computer Sciences (C++, Scheme, HTML, CSS, PHP, SQL). I like cycling, nature, and learning new things. For many months, I have been working on learning Typescript and some frameworks like React and Angular.
+Hi, I'm Mathieu, I'm 20, and I'm studying in Lyon France, at the [Polytech](https://polytech.univ-lyon1.fr/) engineering school. During the first two years of my cursus, I studied Mathematics (Algebra and Analysis I-IV) and Computer Sciences (C++, Scheme, HTML, CSS, PHP, SQL, Java and Python).    
+I'm currently doing an apprenticeship at La Métropole de Lyon, where I'm learning full stack development, mainly using React & Angular for the front, and Next & Mongo Express for the back.
 If you want to see my projects, you can go to my [DevBlog](https://ponton.pages.dev) or browse my repositories. 
 You can contact me by mail at [mathieu.ponton[at]gmail[dot]com](mailto:mathieu.ponton@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/mathieu-ponton/).
 
