@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Half_Marathon_PB-1:59:37-yellow" />
 </p>
 
+
 ### 🌺About Me🌺
 
 Hi, I'm Mathieu, I'm 20, and I'm studying in Lyon France at the [Polytech](https://polytech.univ-lyon1.fr/) engineering school. During the first two years of my cursus, I studied Mathematics (Algebra and Analysis I-IV) and Computer Sciences (C++, Scheme, HTML, CSS, PHP, SQL, Java and Python).    
