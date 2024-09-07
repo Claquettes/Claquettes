@@ -6,8 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claquettes&show_icons=true&theme=synthwave)
 
-
-
 </div>
 <p align="center">
     <a href="https://wakatime.com/@85363e99-4bd6-4f5d-928a-967ecbb24610"><img src="https://wakatime.com/badge/user/85363e99-4bd6-4f5d-928a-967ecbb24610.svg" alt="Total time coded since Nov 26 2022" /></a>
@@ -21,6 +19,9 @@ Hi, I'm Mathieu, I'm 20, and I'm studying in Lyon France at the [Polytech](https
 I'm currently doing an apprenticeship at La Métropole de Lyon, where I'm learning full stack development, mainly using React & Angular for the front, and Next & Mongo Express for the back.
 If you want to see my projects, you can go to my [DevBlog](https://ponton.pages.dev) or browse my repositories. 
 You can contact me by mail at [mathieu.ponton[at]gmail[dot]com](mailto:mathieu.ponton@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/mathieu-ponton/).
+
+### 🌺Outside of coding🌺
+I'm a music and sports enthusiast, and like with technologies, I'm eclectic in my music tastes. I love house music on vinyl, enjoy going to rap concerts, and attending techno parties with friends. I also appreciate the beauty of classical music, often attending performances at the Lyon Auditorium. On top of that, I find peace in nature, especially in the mountains, where I enjoy hiking, trail running, and road cycling.
 
 
 ### 🌺Technologies I Love To Use🌺
