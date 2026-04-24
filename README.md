@@ -1,6 +1,8 @@
 <p align="center">
     <a href="https://wakatime.com/@85363e99-4bd6-4f5d-928a-967ecbb24610"><img src="https://wakatime.com/badge/user/85363e99-4bd6-4f5d-928a-967ecbb24610.svg" alt="Total time coded since Nov 26 2022" /></a>
-    <img src="https://img.shields.io/badge/Half_Marathon_PB-1:37:14-yellow" />
+    <img src="https://img.shields.io/badge/10k-41:59-yellow" />
+    <img src="https://img.shields.io/badge/Half_Marathon-1:37:14-yellow" />
+    <img src="https://img.shields.io/badge/Marathon-4:07:20-yellow" />
     <img src="https://img.shields.io/badge/Software-Engineer-orange" />
     <img src="https://img.shields.io/badge/FullStack-Dev-red" />
 </p>
